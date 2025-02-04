@@ -1,7 +1,8 @@
 # 🌟 **Dashboard | HTML & CSS**  
 
 ## 📌 **Design Preview**  
-![Uploading ‏‏لقطة الشاشة (14).png…]()
+![Uploading Dashboard.png…]()
+
 
 
 ## 🎉 **Welcome!** 👋  
