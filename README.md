@@ -1,8 +1,7 @@
 # 🌟 **Dashboard | HTML & CSS**  
 
 ## 📌 **Design Preview**  
-![Uploading Dashboard.png…]()
-
+![Dashboard Preview](https://github.com/ashrafmahmoud2/Dashboard/blob/main/Preview/Dashboard.png)
 
 
 ## 🎉 **Welcome!** 👋  
