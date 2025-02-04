@@ -1,13 +1,14 @@
 # 🌟 **Dashboard | HTML & CSS**  
 
-## 📌 **Design Preview**  
-![Dashboard Preview](https://github.com/ashrafmahmoud2/Dashboard/blob/main/Preview/Dashboard.png)
-
-
 ## 🎉 **Welcome!** 👋  
-This is **Template Four** from **Elzero Web School**.  
-Check out the full playlist here:  
-📺 **[Elzero Web School - Dashboard Template](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh)**  
+This template was **cloned and developed from scratch** with clean and optimized code.  
+
+## 📌 **Design Preview**  
+![Settings](https://github.com/ashrafmahmoud2/Dashboard/blob/main/Preview/Settings.png)
+![Files](https://github.com/ashrafmahmoud2/Dashboard/blob/main/Preview/Files.png)
+![Friends](https://github.com/ashrafmahmoud2/Dashboard/blob/main/Preview/Friends.png)
+![Plans](https://github.com/ashrafmahmoud2/Dashboard/blob/main/Preview/Plans.png)
+![Profile](https://github.com/ashrafmahmoud2/Dashboard/blob/main/Preview/Profile.png)
 
 ## 🚀 **Technologies Used**  
 - 🌐 **HTML5** 🛠️  
@@ -24,8 +25,3 @@ Check out the full playlist here:
 ✔️ **Friends**  
 ✔️ **Files**  
 ✔️ **Plans**  
-
-## 🎯 **Built From Scratch**  
-This template was **cloned and developed from scratch** with clean and optimized code.  
-
-💡 **Enjoy coding!** 🚀  
